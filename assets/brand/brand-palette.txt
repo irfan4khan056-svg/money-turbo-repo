@@ -1,0 +1,7 @@
+# Brand colour palette (HEX)
+PRIMARY_COLOR="#1A237E"   # deep blue
+SECONDARY_COLOR="#FFEB3B" # bright yellow
+ACCENT_COLOR="#212121"    # dark gray for text
+
+# Font name (free Google Font)
+FONT_NAME="Poppins"
